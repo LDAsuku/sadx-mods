@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "animation-debugger", "animation-debugger\animation-debugger.vcxproj", "{3F122E9B-E722-461F-9DCE-4A82957736B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lightdash", "lightdash\lightdash.vcxproj", "{B3421F8F-35F9-46F1-96A7-715D85568638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F122E9B-E722-461F-9DCE-4A82957736B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F122E9B-E722-461F-9DCE-4A82957736B0}.Debug|x86.Build.0 = Debug|Win32
+		{3F122E9B-E722-461F-9DCE-4A82957736B0}.Release|x86.ActiveCfg = Release|Win32
+		{3F122E9B-E722-461F-9DCE-4A82957736B0}.Release|x86.Build.0 = Release|Win32
+		{B3421F8F-35F9-46F1-96A7-715D85568638}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3421F8F-35F9-46F1-96A7-715D85568638}.Debug|x86.Build.0 = Debug|Win32
+		{B3421F8F-35F9-46F1-96A7-715D85568638}.Release|x86.ActiveCfg = Release|Win32
+		{B3421F8F-35F9-46F1-96A7-715D85568638}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC53241-C8AB-40A7-92A1-FA9C9875FEEF}
+	EndGlobalSection
+EndGlobal
