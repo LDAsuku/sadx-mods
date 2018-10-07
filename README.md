@@ -16,7 +16,7 @@ D | toggle frame lock
 left/right | frame advance through the current active animation (hold Y for continuous)
 AZY+down | toggle outputting the current animation ID and frame to the console every frame (default: off)
 
-a mostly-complete list of animations can be found [on sonic retro](http://info.sonicretro.org/). beware that letting the animation ID go out-of-bounds will crash the game. the last animations for each character I've tested are as follows:
+a mostly-complete list of animations can be found [on sonic retro](http://info.sonicretro.org/SCHG:Sonic_Adventure_DX:_PC/Lists#Sonic.27s_Animations). beware that letting the animation ID go out-of-bounds will crash the game. the last animations for each character I've tested are as follows:
 ​
 
 char | max
