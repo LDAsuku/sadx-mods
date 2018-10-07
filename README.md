@@ -7,13 +7,14 @@ first mod I made. hold B or X after lightdashing and it won't end until sonic re
 second mod. allows locking and manually advancing sonic's animations in-game.
 controls:
 ​
-| button combo | action |
-| :-: | :- |
-C        | toggle animation ID lock
-up/down        | advance through animations (hold Y for an increment of 16)
-D        | toggle frame lock
-left/right    | frame advance through the current active animation (hold Y for continuous)
-AZY+down    | toggle outputting the current animation ID and frame to the console every frame (default: off)
+<table>
+<tr><th>button combo</th><th>action</th></tr>
+<tr><td>C</td><td>toggle animation ID lock</td></tr>
+<tr><td>up/down</td><td>advance through animations (hold Y for an increment of 16)</td></tr>
+<tr><td>D</td><td>toggle frame lock</td></tr>
+<tr><td>left/right</td><td>frame advance through the current active animation (hold Y for continuous)</td></tr>
+<tr><td>AZY+down</td><td>toggle outputting the current animation ID and frame to the console every frame (default: off)</td></tr>
+</table>
 ​
 a mostly-complete list of animations can be found [on sonic retro](info.sonicretro.org/SCHG:Sonic_Adventure_DX:_PC/Lists#Animation_Lists). beware that letting the animation ID go out-of-bounds will crash the game. the last animations for each character I've tested are as follows:
 ​
